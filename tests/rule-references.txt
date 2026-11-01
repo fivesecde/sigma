@@ -4164,3 +4164,13 @@ https://symantec-enterprise-blogs.security.com/threat-intelligence/harvester-new
 https://www.sans.org/blog/defending-against-scattered-spider-and-the-com-with-cybercrime-intelligence/
 https://www.spamhaus.org/reputation-statistics/cctlds/domains/
 https://web.archive.org/web/20230329170326/https://blog.menasec.net/2019/02/threat-hunting-21-procdump-or-taskmgr.html
+https://cloud.google.com/blog/topics/threat-intelligence/unc3944-targets-saas-applications
+https://web.archive.org/web/20190508165435/https://www.operationblockbuster.com/wp-content/uploads/2016/02/Operation-Blockbuster-RAT-and-Staging-Report.pdf
+https://man7.org/linux/man-pages/man2/sysinfo.2.html
+https://labs.nettitude.com/blog/introducing-sharpwsus/
+https://cert.gov.ua/article/6284080
+https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository
+https://learn.microsoft.com/en-us/entra/id-protection/howto-identity-protection-configure-mfa-policy
+https://megatools.megous.com/
+https://www.trendmicro.com/en_us/research/25/c/socgholishs-intrusion-techniques-facilitate-distribution-of-rans.html
+https://web.archive.org/web/20230329163438/https://blog.menasec.net/2019/02/threat-hunting-5-detecting-enumeration.html
